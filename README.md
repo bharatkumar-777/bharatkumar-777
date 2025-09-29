@@ -23,7 +23,7 @@ I love turning ideas into polished apps and helping teams ship fast.
 ## Featured Projects
 
 - **[AttorneyShield](https://attorney-shield.com/)** – Secure legal services platform.
-- **[Talkie Space](https://talkiespace.example)** – Real-time voice rooms built with React Native & Node.js.
+- **[Linkde Livin](https://www.linkedlivin.com/)** – Real-time voice rooms built with React Native & Node.js.
 
 ---
 
@@ -45,4 +45,4 @@ React Native • Expo • TypeScript • Next.js • Node.js • Redux / Zustand
 
 ---
 
-*Made with ❤️ — always happy to collaborate on exciting React Native or Flutter projects.*
+*Made with ❤️ — always happy to collaborate on exciting React Native or IOS projects.*
