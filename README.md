@@ -7,12 +7,12 @@ I'm a 23-year-old developer from India 🇮🇳 with 4+ years of React Native an
 I love turning ideas into polished apps and helping teams ship fast.
 
 ## About Me
-- 🌱 Currently building **Rent VIP**, a real-estate mobile app, and experimenting with Flutter alongside React Native.
+- 🌱 Currently building **Rent VIP**, a real-estate mobile app, and experimenting with SwiftIos alongside React Native.
 - 🚀 Notable work:
   
   - **AttorneyShield** – Legal services app with secure file handling and media playback.
      
-  - **RedTag** – Legal services app with secure file handling and media playback.
+  - **RedTag** – An E-commerce application with more than one million developers and 40k active users daily.
   
 - 💡 Always exploring ways to improve developer experience — from custom loaders and animations to better boilerplates and tooling.
 - 🤝 Open to collaborations on mobile projects, especially around rich media, subscriptions, and personalized notifications.
@@ -24,11 +24,12 @@ I love turning ideas into polished apps and helping teams ship fast.
 
 - **[AttorneyShield](https://attorney-shield.com/)** – Secure legal services platform.
 - **[Linkde Livin](https://www.linkedlivin.com/)** – Real-time voice rooms built with React Native & Node.js.
+- - **[RedTag Website](https://sa.redtagfashion.com/)** – Real-time voice rooms built with React Native & Node.js.
 
 ---
 
 ## Tech & Tools
-React Native • Expo • TypeScript • Next.js • Node.js • Redux / Zustand • GraphQL / REST • Flutter • Jest • Fastlane • CI/CD
+React Native • Expo • TypeScript • Next.js • Node.js • Redux / Zustand • GraphQL / REST • SwiftIOS • Jest • Fastlane • CI/CD
 
 ---
 
@@ -40,8 +41,9 @@ React Native • Expo • TypeScript • Next.js • Node.js • Redux / Zustand
 
 ## Connect
 - LinkedIn: [Bharat Sapra](https://www.linkedin.com/in/bharat-sapra-web-dev/)  
-- Email: bahratsapra777@gmail.com  <!-- replace with your real email if you want -->
+- Email: bharatsapra777@gmail.com  <!-- replace with your real email if you want -->
 - Twitter: [@BharatSapr59551](https://x.com/BharatSapr59551) <!-- add your handle if you use Twitter -->
+- Portfolio: [Bharat kumar](https://bharatsapra.vercel.app/) <!-- add your handle if you use Twitter -->
 
 ---
 
