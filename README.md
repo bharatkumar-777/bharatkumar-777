@@ -23,8 +23,8 @@ I love turning ideas into polished apps and helping teams ship fast.
 ## Featured Projects
 
 - **[AttorneyShield](https://attorney-shield.com/)** – Secure legal services platform.
-- **[Linkde Livin](https://www.linkedlivin.com/)** – Real-time voice rooms built with React Native & Node.js.
-- - **[RedTag Website](https://sa.redtagfashion.com/)** – Real-time voice rooms built with React Native & Node.js.
+- **[Linked Livin](https://www.linkedlivin.com/)** – BNB based project similar to airbnd used by professionals.
+- **[RedTag Website](https://sa.redtagfashion.com/)** – one of the biggest E-commerce store of KSA .
 
 ---
 
